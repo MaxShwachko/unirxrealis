@@ -1,5 +1,5 @@
 {
-  "name": "com.playdarium.unirx",
+  "name": "com.realis.unirx",
   "displayName": "Unirx",
   "description": "UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. .",
   "version": "1.0.0",
@@ -7,12 +7,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/nazgull30/unirxplaydarium.git"
+    "url": "https://github.com/MaxShwachko/unirxrealis.git"
   },
   "author": {
-    "name": "playdarium",
-    "email": "playdarium@gmail.com",
-    "url": "https://playdarium.com"
+    "name": "realis",
+    "email": "tabureddd@gmail.com",
+    "url": ""
   },
   "dependencies": {},
   "keywords": [
